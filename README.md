@@ -5,7 +5,6 @@
 
 ## Problems
 <p>The problems are divided into 9 categories.</p>
-![categories](./categories.png)
 <ol>
     <li>Beginner (335 Problems)</li>
     <li>AD-HOC (732 Problems)</li>
