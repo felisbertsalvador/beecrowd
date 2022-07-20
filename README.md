@@ -19,3 +19,6 @@
 
 ## Solutions
 <p>I'll be posting all the accepted solutions using the C Programming language.</p>
+
+## Info
+
